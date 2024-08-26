@@ -4,7 +4,7 @@
 bin: 可执行文件  
 build: 项目编译文件  
 lib: 项目库文件  
-src: 源文件   src/rpcprovider:提供发布rpc方法的框架底层；src/mprpcchannel:提供调用rpcstub代理的底层代码；src/mprpc/config:读取配置文件
+src: 源文件   src/rpcprovider:提供发布rpc方法的框架底层；src/mprpcchannel:提供调用rpcstub代理的底层代码；src/mprpc/config:读取配置文件  
 test: 测试代码  
 example: 框架代码使用范例  
 autobuild.sh: 一键编译脚本  
